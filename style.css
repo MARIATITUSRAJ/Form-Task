@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+ }
+  body{
+    background-color: rgb(13, 182, 36) !important ;
+    text-align: center !important;
+  }
+ 
+ 
+  h1{
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     text-align: center;
+     font-size: 10px;
+ 
+ }
+ 
+.head{
+    font-size: large !important;
+    color: white !important;
+}
+ form{
+     padding: 20px;
+     font-family: sans-serif;
+ }
+ form label{
+     margin: 10px;
+ }
+ form input{
+     outline: none;
+ 
+ }
+ #submit{
+     background-color: rgb(17, 186, 87);
+     color: white;
+     padding: 7px;
+     border-radius: 10px;
+ }
+ table{
+     width: 100%;
+     border-collapse: collapse;
+     margin-top: 20px;
+ }
+ table th td {
+     border: 1px solid #ddd;
+ }
+ th, td{
+     padding: 10px;
+     text-align: left;
+ }
+ th{
+     background-color: #d4cfcf;
+ }
